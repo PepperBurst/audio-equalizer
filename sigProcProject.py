@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec  5 12:47:05 2017
-
-@author: BobotVFontanilla
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Thu Nov 23 11:21:21 2017
 
 @author: PepperBurst
